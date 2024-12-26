@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1071855718717",
+    "project_id": "learning-app-8332e",
+    "storage_bucket": "learning-app-8332e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071855718717:android:bd0ab3feadfaa06ab2b554",
+        "android_client_info": {
+          "package_name": "com.marshall.ulearning_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHmo4hy1_SiryZ_aFETJNhC81ePRUMZRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
